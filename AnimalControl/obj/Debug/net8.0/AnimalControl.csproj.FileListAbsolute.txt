@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/AnimalControl/bin/Debug/net8.0/AnimalControl
+/home/torraski/Devlopment/Sharp+/AnimalControl/bin/Debug/net8.0/AnimalControl.deps.json
+/home/torraski/Devlopment/Sharp+/AnimalControl/bin/Debug/net8.0/AnimalControl.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/AnimalControl/bin/Debug/net8.0/AnimalControl.dll
+/home/torraski/Devlopment/Sharp+/AnimalControl/bin/Debug/net8.0/AnimalControl.pdb
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.dll
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/refint/AnimalControl.dll
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.pdb
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/AnimalControl.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/AnimalControl/obj/Debug/net8.0/ref/AnimalControl.dll

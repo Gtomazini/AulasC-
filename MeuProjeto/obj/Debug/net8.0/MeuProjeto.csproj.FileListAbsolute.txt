@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/MeuProjeto/bin/Debug/net8.0/MeuProjeto
+/home/torraski/Devlopment/Sharp+/MeuProjeto/bin/Debug/net8.0/MeuProjeto.deps.json
+/home/torraski/Devlopment/Sharp+/MeuProjeto/bin/Debug/net8.0/MeuProjeto.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/MeuProjeto/bin/Debug/net8.0/MeuProjeto.dll
+/home/torraski/Devlopment/Sharp+/MeuProjeto/bin/Debug/net8.0/MeuProjeto.pdb
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.dll
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/refint/MeuProjeto.dll
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.pdb
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/MeuProjeto.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/MeuProjeto/obj/Debug/net8.0/ref/MeuProjeto.dll

@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/bin/Debug/net8.0/AreaRetangulo
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/bin/Debug/net8.0/AreaRetangulo.deps.json
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/bin/Debug/net8.0/AreaRetangulo.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/bin/Debug/net8.0/AreaRetangulo.dll
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/bin/Debug/net8.0/AreaRetangulo.pdb
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.dll
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/refint/AreaRetangulo.dll
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.pdb
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/AreaRetangulo.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/AreaRetangulo/obj/Debug/net8.0/ref/AreaRetangulo.dll

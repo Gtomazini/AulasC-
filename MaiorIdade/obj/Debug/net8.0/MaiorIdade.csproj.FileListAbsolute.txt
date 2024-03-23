@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/MaiorIdade/bin/Debug/net8.0/MaiorIdade
+/home/torraski/Devlopment/Sharp+/MaiorIdade/bin/Debug/net8.0/MaiorIdade.deps.json
+/home/torraski/Devlopment/Sharp+/MaiorIdade/bin/Debug/net8.0/MaiorIdade.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/MaiorIdade/bin/Debug/net8.0/MaiorIdade.dll
+/home/torraski/Devlopment/Sharp+/MaiorIdade/bin/Debug/net8.0/MaiorIdade.pdb
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.dll
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/refint/MaiorIdade.dll
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.pdb
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/MaiorIdade.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/MaiorIdade/obj/Debug/net8.0/ref/MaiorIdade.dll

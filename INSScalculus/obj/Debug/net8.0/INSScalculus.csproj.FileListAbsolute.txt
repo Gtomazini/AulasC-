@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/INSScalculus/bin/Debug/net8.0/INSScalculus
+/home/torraski/Devlopment/Sharp+/INSScalculus/bin/Debug/net8.0/INSScalculus.deps.json
+/home/torraski/Devlopment/Sharp+/INSScalculus/bin/Debug/net8.0/INSScalculus.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/INSScalculus/bin/Debug/net8.0/INSScalculus.dll
+/home/torraski/Devlopment/Sharp+/INSScalculus/bin/Debug/net8.0/INSScalculus.pdb
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.dll
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/refint/INSScalculus.dll
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.pdb
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/INSScalculus.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/INSScalculus/obj/Debug/net8.0/ref/INSScalculus.dll

@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/bin/Debug/net8.0/JogoAdivinha
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/bin/Debug/net8.0/JogoAdivinha.deps.json
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/bin/Debug/net8.0/JogoAdivinha.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/bin/Debug/net8.0/JogoAdivinha.dll
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/bin/Debug/net8.0/JogoAdivinha.pdb
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.dll
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/refint/JogoAdivinha.dll
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.pdb
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/JogoAdivinha.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/JogoAdivinha/obj/Debug/net8.0/ref/JogoAdivinha.dll

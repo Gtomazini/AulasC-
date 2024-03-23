@@ -1,0 +1,14 @@
+/home/torraski/Devlopment/Sharp+/ZooManager/bin/Debug/net8.0/ZooManager
+/home/torraski/Devlopment/Sharp+/ZooManager/bin/Debug/net8.0/ZooManager.deps.json
+/home/torraski/Devlopment/Sharp+/ZooManager/bin/Debug/net8.0/ZooManager.runtimeconfig.json
+/home/torraski/Devlopment/Sharp+/ZooManager/bin/Debug/net8.0/ZooManager.dll
+/home/torraski/Devlopment/Sharp+/ZooManager/bin/Debug/net8.0/ZooManager.pdb
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.AssemblyInfoInputs.cache
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.AssemblyInfo.cs
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.csproj.CoreCompileInputs.cache
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.dll
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/refint/ZooManager.dll
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.pdb
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ZooManager.genruntimeconfig.cache
+/home/torraski/Devlopment/Sharp+/ZooManager/obj/Debug/net8.0/ref/ZooManager.dll
